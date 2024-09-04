@@ -10,3 +10,8 @@ Então talvez em breve pois estamos pensando em volta e melhorar este PVP e muit
 no momento estamos na versão 1.2 mais iremos autalizar , então esperem :) </h3>h3
 
 CHATDEV - https://chatdevsevers.netlify.app
+
+Craftland:
+
+IFP: craftland34
+PSW: não tem
