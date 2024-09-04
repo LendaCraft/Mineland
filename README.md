@@ -13,5 +13,4 @@ CHATDEV - https://chatdevsevers.netlify.app
 
 Craftland:
 
-IFP: craftland34
-PSW: não tem
+IFP: craftland34 | PSW: não tem
