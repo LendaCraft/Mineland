@@ -9,4 +9,4 @@ o minecraft mais o chão é lava , mais quando o PVP tradicional vai voltar?
 Então talvez em breve pois estamos pensando em volta e melhorar este PVP e muito
 no momento estamos na versão 1.2 mais iremos autalizar , então esperem :) </h3>h3
 
-Para Acessar Milenad 1.21 : https://www.mediafire.com/file/36ceh1x5pzc8t59/Mineland+1.21.zip/file
+CHATDEV - https://chatdevsevers.netlify.app
